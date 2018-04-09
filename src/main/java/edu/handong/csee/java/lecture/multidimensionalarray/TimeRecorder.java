@@ -1,4 +1,4 @@
-package edu.handong.csee.java.lecture.multidimensionalarray;
+package edu.handong.csee.java.lecture.multidimensionalarray; //S
 
 import java.util.Scanner;
 
